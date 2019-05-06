@@ -1,5 +1,5 @@
 #;/bin/bash
-
+#lma
 log_path="/srv/log/deva/caseg2/*/application"
 
 
