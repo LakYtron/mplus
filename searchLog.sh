@@ -2,6 +2,7 @@
 #lma
 log_path="/srv/log/deva/caseg2/*/application"
 
+#zmena3
 
 display_usage() {
 echo "Usage: $0"
