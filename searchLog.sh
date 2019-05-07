@@ -1,5 +1,6 @@
 #;/bin/bash
 #lma
+#nblma
 log_path="/srv/log/deva/caseg2/*/application"
 
 #zmena3
