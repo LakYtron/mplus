@@ -3,7 +3,7 @@
 log_path="/srv/log/deva/caseg2/*/application"
 
 #zmena3
-
+#neconakonec
 display_usage() {
 echo "Usage: $0"
 echo "-h, --help        Help"
