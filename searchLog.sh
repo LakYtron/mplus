@@ -2,6 +2,8 @@
 #lma
 #nblma
 log_path="/srv/log/deva/caseg2/*/application"
+#k
+#sadasd
 
 #zmena3
 #tg2
